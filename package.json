@@ -1,0 +1,25 @@
+{
+  "name": "cypresstest1",
+  "version": "0.0.1",
+  "description": "Test of installing Cypress in a project environment with Noroff lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaNomad/cypressTest1.git"
+  },
+  "keywords": [
+    "test",
+    "setup",
+    "environment-setup",
+    "test-setup"
+  ],
+  "author": "Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaNomad/cypressTest1/issues"
+  },
+  "homepage": "https://github.com/VaNomad/cypressTest1#readme"
+}
