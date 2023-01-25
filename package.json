@@ -24,6 +24,7 @@
   "homepage": "https://github.com/VaNomad/cypressTest1#readme",
   "devDependencies": {
     "cypress": "^10.7.0",
+    "eslint": "^8.32.0",
     "eslint-plugin-cypress": "^2.12.1"
   }
 }
